@@ -1,6 +1,6 @@
 {
     "name": "my-awesome-app-nrw",
-    "version": "0.1.2",
+    "version": "0.3.0",
     "description": "Add a comment in the App.js file that states the purpose of the project.",
     "main": "app.js",
     "scripts": {
