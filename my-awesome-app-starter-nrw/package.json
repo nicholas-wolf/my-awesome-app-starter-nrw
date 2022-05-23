@@ -1,23 +1,23 @@
 {
     "name": "my-awesome-app-nrw",
-    "version": "1.2.2",
-    "description": "Hello World in Node with Express",
+    "version": "0.1.1",
+    "description": "Add a comment in the App.js file that states the purpose of the project.",
     "main": "app.js",
     "scripts": {
-      "start": "node app.js"
+        "start": "node app.js"
     },
     "author": "Nicholas Wolf",
     "license": "ISC",
     "dependencies": {
-      "express": "^4.17.2"
+        "express": "^4.17.2"
     },
     "devDependencies": {},
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nicholas-wolf/my-awesome-app-starter-nrw.git"
+        "type": "git",
+        "url": "git+https://github.com/nicholas-wolf/my-awesome-app-starter-nrw.git"
     },
     "bugs": {
-      "url": "https://github.com/nicholas-wolf/my-awesome-app-starter-nrw/issues"
+        "url": "https://github.com/nicholas-wolf/my-awesome-app-starter-nrw/issues"
     },
     "homepage": "https://github.com/nicholas-wolf/my-awesome-app-starter-nrw#readme"
-  }
+}
